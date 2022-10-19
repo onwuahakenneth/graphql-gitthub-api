@@ -7,6 +7,6 @@ GITHUB_ACCESS_TOKEN="YOUR GITHUB ACCESS TOKEN"
 GITHUB_GRAPHQL_ENDPOINT="https://api.github.com/graphql"
 
 #3 start the dev server with
-yarn run dev
+npm run dev
 
 Good!
