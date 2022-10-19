@@ -28,7 +28,7 @@ const Home: NextPage<Props> = ({ fetchedIssues }) => {
   return (
     <div className="flex flex-col items-center">
       <Head>
-        <title>Create Next App</title>
+        <title>GitHub-GraphQl</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="bg-gray-200 w-full lg:max-w-6xl h-screen pt-20 pb-16 px-4 auto overflow-scroll flex flex-col items-center">
